@@ -7,7 +7,7 @@ Quick start
     - repo done
     - topic done
     - readmy change
-    -commit made
+    - commit made
 
 2. Day 2:
 
